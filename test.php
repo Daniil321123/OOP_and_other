@@ -31,11 +31,11 @@
 //        var_dump($row['name']);
 //        die;
 //    }
-$arr = '1234567890';
-$arr1 = str_split($arr, 2);
-$arr_new = array_sum($arr1);
-var_dump($arr1);
-die;
+//$arr = '1234567890';
+//$arr1 = str_split($arr, 2);
+//$arr_new = array_sum($arr1);
+//var_dump($arr1);
+//die;
 
 class Calculator
 {
