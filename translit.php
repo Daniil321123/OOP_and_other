@@ -49,4 +49,3 @@ function translit($value)
     $value = strtr($value, $converter);
     return $value;
 }
-
