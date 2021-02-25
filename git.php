@@ -9,6 +9,7 @@
 </head>
 <body>
 <h1>Its all working!</h1>
+<h2>Hello world!</h2>
 <form action="" method="GET">
     <input type="text" name="text">
     <input type="submit">
