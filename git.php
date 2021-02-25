@@ -8,7 +8,7 @@
     <title>Test</title>
 </head>
 <body>
-Its all working!
+<h1>Its all working!</h1>
 <form action="" method="GET">
     <input type="text" name="text">
     <input type="submit">
