@@ -16,6 +16,11 @@ echo preg_replace("/a.+?a/", '!',   $text);
 <h2>Hello world!</h2>
 <form action="">
     <input type="text">
+    <input type="text">
+    <input type="text">
+    <input type="text">
+    <input type="text">
+    <input type="text">
 </form>
 </body>
 </html>
