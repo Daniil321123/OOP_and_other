@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+<?php
+$text =  'aba accca azzza wwwwa';
+echo   $text. '<br>';
+echo preg_replace("/a.+?a/", '!',   $text);
+=======
 <!doctype html>
 <html lang="en">
 <head>
@@ -50,3 +56,4 @@ function translit($value)
     return $value;
 }
 
+>>>>>>> main
