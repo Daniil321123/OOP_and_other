@@ -14,9 +14,5 @@ echo preg_replace("/a.+?a/", '!',   $text);
 </head>
 <body>
 <h2>Hello world!</h2>
-<form action="">
-    <input type="text">
-    <input type="submit">
-</form>
 </body>
 </html>
